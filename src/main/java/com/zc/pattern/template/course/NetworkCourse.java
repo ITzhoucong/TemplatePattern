@@ -3,7 +3,7 @@ package com.zc.pattern.template.course;
 /**
  * @author: ZhouCong
  * @date: Create in 2021/1/11 15:23
- * @description: 网课抽象类
+ * @description: 网课抽象类 模板会有一个或者多个未实现的方法，而且这几个未实现方法有着固定的执行顺序
  */
 public abstract class NetworkCourse {
 
